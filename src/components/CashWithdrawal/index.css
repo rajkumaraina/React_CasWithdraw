@@ -1,0 +1,81 @@
+.mainContainer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bgContainer {
+  background-color: #150b3e;
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+  width: 50%;
+  justify-content: center;
+  padding: 24px;
+  height: 95%;
+}
+.nameContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.letterContainer {
+  width: 70px;
+  height: 70px;
+  background-color: #c7d2fe;
+  border-radius: 40px;
+  text-align: center;
+}
+.letter {
+  color: #7c3aed;
+  margin-top: 16px;
+  font-size: 25px;
+}
+.heading {
+  color: #ffffff;
+  margin-left: 25px;
+}
+.balanceContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.balanceHeading {
+  color: #585076;
+  font-size: 20px;
+  font-weight: bold;
+}
+.rupeesContainer {
+  display: flex;
+  flex-direction: column;
+}
+.rupees {
+  color: #ffffff;
+  margin-bottom: 14px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.para {
+  color: #585076;
+}
+.withDrawContainer {
+  display: flex;
+  flex-direction: column;
+}
+.withDraw {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.withDrawPara {
+  color: #585076;
+}
+.unordered {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}

@@ -1,0 +1,13 @@
+.button {
+  width: 250px;
+  height: 50px;
+  border: 1px solid #c4c4c4;
+  cursor: pointer;
+  background-color: #382f5a;
+  margin: 12px;
+  color: #ffffff;
+  font-size: 25px;
+}
+.list {
+  list-style-type: none;
+}
